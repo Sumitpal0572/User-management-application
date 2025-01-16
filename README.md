@@ -33,3 +33,6 @@ This project is a React.js application that fetches and displays a list of users
 
 #### Backend:
 - Data is fetched from the free JSONPlaceholder API.
+
+### deployment link
+https://user-management-application-nu.vercel.app/
